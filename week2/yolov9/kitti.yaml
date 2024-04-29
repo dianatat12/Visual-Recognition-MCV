@@ -1,0 +1,10 @@
+path: /ghome/group04/MCV-C5-G4/week2/optional_task/dataset/train/splits/1 # dataset root dir
+train: images/train/  # train images (relative to 'path') 
+val: images/test/  # val images (relative to 'path') 
+test: /ghome/group04/MCV-C5-G4/week2/optional_task/dataset/test/
+
+# Classes
+names:
+  1: car
+  2: pedestrian
+
